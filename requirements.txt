@@ -1,0 +1,4 @@
+pandas
+yfinance
+python-telegram-bot
+
